@@ -56,8 +56,7 @@ def main():
             </head>
             <body style="font-family: 'Inter', sans-serif;">
                 <h1 style="color: blue; font-size: 30px;">
-                    sup gango! welcome to cat tags backend!!
-                    
+                    sup gango! this is cat tags backend!
                 </h1>
             </body>
         </html>
