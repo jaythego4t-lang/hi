@@ -55,8 +55,8 @@ def main():
                 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&display=swap" rel="stylesheet">
             </head>
             <body style="font-family: 'Inter', sans-serif;">
-                <h1 style="color: red; font-size: 30px;">
-                    sup gango! -laxlep
+                <h1 style="color: blue; font-size: 30px;">
+                    sup gango! this is cat tags backend!
                 </h1>
             </body>
         </html>
