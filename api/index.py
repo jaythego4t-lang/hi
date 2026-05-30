@@ -17,7 +17,7 @@ class GameInfo:
     def __init__(self):
         self.TitleId: str = "AA205"  # Playfab Title Id
         self.SecretKey: str = "HEEW954CY34ZSAEOK74QUYI81HCCYHZBB8J88O8PJCS4C4H7B6"  # Playfab Secret Key
-        self.ApiKey: str = "OC|1151019881423004|08ef489d53705f7d751377d33823e55d"  # App Api Key (Oculus/Graph API)
+        self.ApiKey: str = "OC|1162420473616278|18a77bccc88bcf245ade1285f9960b67"  # App Api Key (Oculus/Graph API)
 
     def get_auth_headers(self):
         return {"content-type": "application/json", "X-SecretKey": self.SecretKey}
@@ -79,7 +79,7 @@ def main():
                 <h1 style="color: #eedd82; font-size: 48px; text-shadow: 2px 2px 4px rgba(0,0,0,0.5);">
                     Wsp Broksie. This is a private backend!
                 </h1>
-                <p style="font-size: 18px;">Cat Taggers Backend Server Running Smoothly!</p>
+                <p style="font-size: 18px;">Koi Tag Backend Server Running Smoothly!</p>
                 <img src="https://aicdn.picsart.com/275c6ae1-73a4-4cee-b3f5-45ccfa4499ae.png" alt="if u see this text it dont work" style="max-width: 500px; border-radius: 20px; box-shadow: 0 4px 20px rgba(0,0,0,0.3); display: block; margin: 30px auto;">
                 <p style="font-size: 14px; opacity: 0.8;">Image loads when the server works!</p>
             </body>
@@ -205,11 +205,11 @@ def titledata():
         "SeasonalStoreBoardSign": "<color=red>RATE THE GAME 5 STARS!</color>\n<color=blue>.GG/UNLOADTAG</color>",
         # Text and Messages
         "EmptyFlashbackText": "FLOOR TWO NOW OPEN\n FOR BUSINESS\n\nSTILL SEARCHING FOR\nBOX LABELED 2021",
-        "MOTD": "<color=#FFC0CB>WELCOME TO CAT TAGGERS!</color>\n\n<color=#0099c2>CURRENT UPDATE: NOWRUZ 24 </color>\n<color=#cacfd2>BOOST THE DISCORD FOR ALL COSMETICS (EXCLUDING STAFF COS)</color>\n<color=#41ff80></color>\n<color=#6417ff>OUR DEVELOPER Is SPIDERR</color>\n<color=#ac1a00></color>\n\n<color=#91A3B0>https://discord.gg/wGZcSkRrf</color>",
+        "MOTD": "<color=#FFC0CB>WELCOME TO CAT TAGGERS!</color>\n\n<color=#0099c2>CURRENT UPDATE: ILAVAU 24 </color>\n<color=#cacfd2>BOOST THE DISCORD FOR ALL COSMETICS (EXCLUDING STAFF COS)</color>\n<color=#41ff80></color>\n<color=#6417ff>OUR DEVELOPER Is KOI</color>\n<color=#ac1a00></color>\n\n<color=#91A3B0>https://discord.gg/wGZcSkRrf</color>",
         "TOBAlreadyOwnCompTxt": "https://discord.gg/wGZcSkRrf",
-        "TOBAlreadyOwnPurchaseBundle": "CAT TAGGERS",
+        "TOBAlreadyOwnPurchaseBundle": "KOI TAG",
         "TOBDefCompTxt": "https://discord.gg/wGZcSkRrf",
-        "TOBDefPurchaseBtnDefTxt": "CAT TAGGERS",
+        "TOBDefPurchaseBtnDefTxt": "KOI TAG",
         # Legal and Versions
         "EnableCustomAuthentication": True,
         "LatestPrivacyPolicyVersion": "2024.09.20",
