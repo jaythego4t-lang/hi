@@ -205,8 +205,7 @@ def titledata():
         "SeasonalStoreBoardSign": "<color=red>RATE THE GAME 5 STARS!</color>\n<color=blue>discord.gg/5Hrm9cjxU</color>",
         # Text and Messages
         "EmptyFlashbackText": "FLOOR TWO NOW OPEN\n FOR BUSINESS\n\nSTILL SEARCHING FOR\nBOX LABELED 2021",
-        "MOTD": "<color=#FFC0CB>WELCOME TO KOI TAG!</color>\n\n<color=#0099c2>CURRENT UPDATE: HAll 24
-        OWNERS ARE KOI FROSTY 4XMODZ : ADMIN BADGE IS FOR OWNERS </color>\n<color=#cacfd2>BOOST THE DISCORD FOR ALL COSMETICS (EXCLUDING STAFF COS)</color>\n<color=#41ff80></color>\n<color=#6417ff>OUR DEVELOPER IS KOI</color>\n<color=#ac1a00></color>\n\n<color=#91A3B0>https://discord.gg/wGZcSkRrf</color>",
+        "MOTD": "<color=#FFC0CB>WELCOME TO KOI TAG!</color>\n\n<color=#0099c2>CURRENT UPDATE: HAll 24 </color>\n<color=#cacfd2>BOOST THE DISCORD FOR ALL COSMETICS (EXCLUDING STAFF COS)</color>\n<color=#41ff80></color>\n<color=#6417ff>OUR DEVELOPER IS KOI</color>\n<color=#ac1a00></color>\n\n<color=#91A3B0>https://discord.gg/wGZcSkRrf</color>",
         "TOBAlreadyOwnCompTxt": "https://discord.gg/5Hrm9cjxU",
         "TOBAlreadyOwnPurchaseBundle": "KOI TAG",
         "TOBDefCompTxt": "https://discord.gg/5Hrm9cjxU",
