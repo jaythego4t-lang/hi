@@ -198,23 +198,24 @@ def titledata():
             "Elder", "Honey", "Nurse", "Doctor", "Rebel", "Shape", "Ally", "Driver", "Deputy", "Wizard"
         ],
         # Bundle and Sign Configurations
-        "BundleBoardSign": "<color=#ff4141>https://discord.gg/wGZcSkRrf</color>",
-        "BundleKioskButton": "<color=#ff4141>https://discord.gg/wGZcSkRrf</color>",
-        "BundleKioskSign": "<color=#ff4141>https://discord.gg/wGZcSkRrf</color>",
-        "BundleLargeSign": "<color=#ff4141>https://discord.gg/wGZcSkRrf</color>",
-        "SeasonalStoreBoardSign": "<color=red>RATE THE GAME 5 STARS!</color>\n<color=blue>.GG/UNLOADTAG</color>",
+        "BundleBoardSign": "<color=#ff4141>https://discord.gg/5Hrm9cjxU</color>",
+        "BundleKioskButton": "<color=#ff4141>https://discord.gg/5Hrm9cjxU</color>",
+        "BundleKioskSign": "<color=#ff4141>https://discord.gg/5Hrm9cjxU</color>",
+        "BundleLargeSign": "<color=#ff4141>https://discord.gg/5Hrm9cjxU</color>",
+        "SeasonalStoreBoardSign": "<color=red>RATE THE GAME 5 STARS!</color>\n<color=blue>discord.gg/5Hrm9cjxU</color>",
         # Text and Messages
         "EmptyFlashbackText": "FLOOR TWO NOW OPEN\n FOR BUSINESS\n\nSTILL SEARCHING FOR\nBOX LABELED 2021",
-        "MOTD": "<color=#FFC0CB>WELCOME TO KOI TAG!</color>\n\n<color=#0099c2>CURRENT UPDATE: HAllOWEEN 24 </color>\n<color=#cacfd2>BOOST THE DISCORD FOR ALL COSMETICS (EXCLUDING STAFF COS)</color>\n<color=#41ff80></color>\n<color=#6417ff>OUR DEVELOPER Is KOI</color>\n<color=#ac1a00></color>\n\n<color=#91A3B0>https://discord.gg/wGZcSkRrf</color>",
-        "TOBAlreadyOwnCompTxt": "https://discord.gg/wGZcSkRrf",
+        "MOTD": "<color=#FFC0CB>WELCOME TO KOI TAG!</color>\n\n<color=#0099c2>CURRENT UPDATE: HAll 24
+        OWNERS ARE KOI FROSTY 4XMODZ : ADMIN BADGE IS FOR OWNERS </color>\n<color=#cacfd2>BOOST THE DISCORD FOR ALL COSMETICS (EXCLUDING STAFF COS)</color>\n<color=#41ff80></color>\n<color=#6417ff>OUR DEVELOPER IS KOI</color>\n<color=#ac1a00></color>\n\n<color=#91A3B0>https://discord.gg/wGZcSkRrf</color>",
+        "TOBAlreadyOwnCompTxt": "https://discord.gg/5Hrm9cjxU",
         "TOBAlreadyOwnPurchaseBundle": "KOI TAG",
-        "TOBDefCompTxt": "https://discord.gg/wGZcSkRrf",
+        "TOBDefCompTxt": "https://discord.gg/5Hrm9cjxU",
         "TOBDefPurchaseBtnDefTxt": "KOI TAG",
         # Legal and Versions
         "EnableCustomAuthentication": True,
         "LatestPrivacyPolicyVersion": "2024.09.20",
         "LatestTOSVersion": "2024.09.20",
-        "TOS_2024.09.20": "https://discord.gg/wGZcSkRrf",
+        "TOS_2024.09.20": "https://discord.gg/5Hrm9cjxU",
         "EnableTwoFactorAuth": False,
         "MaxLoginAttempts": 5,
         "SessionTimeoutMinutes": 30,
@@ -246,7 +247,7 @@ def titledata():
         "RegionPriority": ["US", "EU", "AS"],
         "EnableSpectatorMode": True,
         "TutorialEnabled": True,
-        "NewsFeedUrl": "https://discord.gg/wGZcSkRrf",
+        "NewsFeedUrl": "https://discord.gg/5Hrm9cjxU",
         "UpdateCheckInterval": 3600,
         "BackupInterval": 86400,
         "LogLevel": "INFO",
@@ -312,7 +313,7 @@ def titledata():
         "EnableVoiceModeration": True,
         "VoiceModerationThreshold": 0.9,
         "EnablePlayerFeedback": True,
-        "FeedbackSubmissionUrl": "https://discord.gg/wGZcSkRrf/feedback"
+        "FeedbackSubmissionUrl": "https://discord.gg/5Hrm9cjxU/feedback"
     }
     return jsonify(response_data)
 
